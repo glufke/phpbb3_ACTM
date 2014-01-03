@@ -7,8 +7,9 @@ GITHUB.: https://github.com/glufke/phpbb3_ACTM/
 
 CONTACT: phpbb3_actm@glufke.net 
 
-EXAMPLE: http://glufke.net/oracle       --> original version
-
+EXAMPLE:
+  
+         http://glufke.net/oracle       --> original version
          http://en.glufke.net/oracle    --> translated version
 
 
