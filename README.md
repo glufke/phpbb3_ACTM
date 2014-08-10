@@ -17,4 +17,4 @@ The example above is a forum with about 10K pages translated from portuguese to 
 This MOD allow the owner of a PHPBB3 forum to create real content in another language.
 
 More information will be added soon.
-
+...
